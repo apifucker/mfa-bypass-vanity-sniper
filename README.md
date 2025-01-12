@@ -1,0 +1,1 @@
+# mfasiz-vanity-url-sniper
