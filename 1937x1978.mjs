@@ -18,7 +18,7 @@ const config = {
   gatewayUrl: "wss://gateway-us-east1-b.discord.gg",
   os: "linux",
   browser: "Maxthon",
-  device: "duckevilsxrushxingilterelixzonsxashxnoex"
+  device: "duckevilsxrushxzonsxashxnoex"
 };
 
 let duckevilsss = '';
